@@ -1,0 +1,27 @@
+FUSNI QYTETIN: 
+Kucove
+
+
+{'base': 'stations',
+ 'clouds': {'all': 0},
+ 'cod': 200,
+ 'coord': {'lat': 40.8003, 'lon': 19.9167},
+ 'dt': 1694301035,
+ 'id': 3185060,
+ 'main': {'feels_like': 70.92,
+          'grnd_level': 1008,
+          'humidity': 50,
+          'pressure': 1015,
+          'sea_level': 1015,
+          'temp': 71.69,
+          'temp_max': 71.69,
+          'temp_min': 71.69},
+ 'name': 'Kuçovë',
+ 'sys': {'country': 'AL', 'sunrise': 1694319339, 'sunset': 1694365181},
+ 'timezone': 7200,
+ 'visibility': 10000,
+ 'weather': [{'description': 'clear sky',
+              'icon': '01n',
+              'id': 800,
+              'main': 'Clear'}],
+ 'wind': {'deg': 86, 'gust': 4.54, 'speed': 5.08}}
