@@ -24,7 +24,7 @@ def get_weather():
     if not bool(city.strip()):
         print("MEQE FUTET HAPESIRA BOSHE, DO ZGJEDHIM KUCOVA")
         # You could render "City Not Found" instead like we do below
-        city = "Maarssen"
+        city = "Kucove"
 
     weather_data = get_current_weather(city)
 
